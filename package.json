@@ -1,0 +1,8 @@
+{ 	
+	"name": "com.debox.unitoolz.extenstions", 	
+	"description": "Useful extensions",
+	"version": "0.0.1",
+	"unity": "2019.3", 
+	"displayName": "Unitoolz Extensions", 
+	"dependencies": {}
+}
