@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Threading;
 using System.Diagnostics;
 
-namespace Unitoolz.Extensions
+namespace DeBox.Unitoolz.Extensions
 {
     public static class SafeInvoker
     {

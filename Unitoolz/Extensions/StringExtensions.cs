@@ -1,9 +1,6 @@
-﻿using UnityEngine;
-using System.Text;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-
-namespace Unitoolz.Extensions
+namespace DeBox.Unitoolz.Extensions
 {
 	public static class stringExtensions 
 	{

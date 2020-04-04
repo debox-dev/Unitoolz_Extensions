@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Unitoolz.Extensions
+namespace DeBox.Unitoolz.Extensions
 {
 
     public static class TransformExtensions 
